@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeMC.iml" filepath="$PROJECT_DIR$/.idea/CodeMC.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeMC-API/CodeMC-API.iml" filepath="$PROJECT_DIR$/CodeMC-API/CodeMC-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeMC-DiscordBot/CodeMC-DiscordBot.iml" filepath="$PROJECT_DIR$/CodeMC-DiscordBot/CodeMC-DiscordBot.iml" />
     </modules>
   </component>
 </project>
