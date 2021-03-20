@@ -3,9 +3,9 @@ version: ${project.version}
 main: de.tomjuri.codemc.api.CMCAPI
 prefix: CodeMC-API
 load: STARTUP
-loadbefore: [ d ]
-depend: [ d ]
-softdepend: [ d ]
+loadbefore: [ ]
+depend: [ ]
+softdepend: [ ]
 authors: [ TomJuri ]
 description: The CodeMC API.
 website: https://codemc.eu/staff/tomjuri
