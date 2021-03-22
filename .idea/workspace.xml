@@ -10,31 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3dd2a39-cbd6-40d4-a16c-33e628b3ee61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CodeMC_API_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CodeMC_CoinSystem_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsAddSubCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsBaseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsGetSubCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsRemoveSubCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsSetSubCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/utils/CommandHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/utils/CommandInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/listener/JoinListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-WebSite/CodeMC-WebSite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-WebSite/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-API/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/CMCAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/CMCAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/MySQL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/SQLGetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/SQLGetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/command.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/first-message.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/first-message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/rules-role-claim.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/rules-role-claim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/CMCCoinSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/CMCCoinSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/CMCCoinSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/CMCCoinSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/commands/utils/CommandHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/commands/utils/CommandHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +40,19 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/spigotmc/spigot-api/1.8.8-R0.1-SNAPSHOT/spigot-api-1.8.8-R0.1-20160221.082514-43-sources.jar!/org/bukkit/plugin/java/JavaPlugin.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -76,6 +73,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -84,7 +82,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.35" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodeMC-API.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodeMC-WebSite" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -95,15 +93,18 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.stylelint" value="C:\Users\Tom Juri Midderhoff\IntelliJ\CodeMC\CodeMC-WebSite" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.reader.mode" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -115,13 +116,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.CodeMC-DiscordBot start">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,7 +174,8 @@
       <workItem from="1616281932926" duration="1255000" />
       <workItem from="1616327988503" duration="6369000" />
       <workItem from="1616346010216" duration="233000" />
-      <workItem from="1616346303411" duration="1968000" />
+      <workItem from="1616346303411" duration="5790000" />
+      <workItem from="1616442284409" duration="1005000" />
     </task>
     <servers />
   </component>

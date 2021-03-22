@@ -9,11 +9,11 @@ import java.sql.SQLException;
 
 public final class CMCAPI extends JavaPlugin {
 
-    public String host = "host";
-    public String port = "port";
-    public String database = "database";
-    public String username = "username";
-    public String password = "password";
+    public String host = "localhost";
+    public String port = "3306";
+    public String database = "codemc";
+    public String username = "root";
+    public String password = "";
 
     public static CMCAPI getInstance;
     public MySQL SQL;

@@ -10,8 +10,8 @@ public final class CMCCoinSystem extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        Bukkit.getPluginManager().registerEvents(new JoinListener(), this);
         registerCommands();
-        registerListener();
 
     }
 
@@ -22,17 +22,12 @@ public final class CMCCoinSystem extends JavaPlugin {
 
     public void registerCommands() {
         CommandHandler handler = new CommandHandler();
-        getCommand("coins").setExecutor(handler);
         handler.register("coins", new CoinsBaseCommand());
         handler.register("get", new CoinsGetSubCommand());
         handler.register("set", new CoinsSetSubCommand());
         handler.register("add", new CoinsAddSubCommand());
         handler.register("remove", new CoinsRemoveSubCommand());
-
-    }
-
-    public void registerListener() {
-        Bukkit.getPluginManager().registerEvents(new JoinListener(), this);
+        getCommand("coins").setExecutor(handler);
 
     }
 }

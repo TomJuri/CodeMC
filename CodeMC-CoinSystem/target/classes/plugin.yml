@@ -9,3 +9,6 @@ softdepend: [  ]
 authors: [ TomJuri ]
 description: The CodeMC Coin System.
 website: https://codemc.eu/staff/tomjuri
+
+commands:
+  coins:
