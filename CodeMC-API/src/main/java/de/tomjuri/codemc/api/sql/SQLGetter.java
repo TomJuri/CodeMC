@@ -10,7 +10,7 @@ import java.util.UUID;
 
 public class SQLGetter {
 
-    private CMCAPI plugin;
+    private final CMCAPI plugin;
 
     public SQLGetter(CMCAPI plugin) {
         this.plugin = plugin;
@@ -47,10 +47,7 @@ public class SQLGetter {
             PreparedStatement ps = plugin.SQL.getConnection().prepareStatement("SELECT * FROM Coins WHERE uuid=?");
             ps.setString(1, uuid.toString());
             ResultSet results = ps.executeQuery();
-            if (results.next()) {
-                return true;
-            }
-            return false;
+            return results.next();
         } catch (SQLException e) {
             e.printStackTrace();
         }

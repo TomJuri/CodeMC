@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CodeMC-CoinSystem:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3dd2a39-cbd6-40d4-a16c-33e628b3ee61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CodeMC_API_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CodeMC_CoinSystem_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsAddSubCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsBaseCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsGetSubCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsRemoveSubCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/coins/CoinsSetSubCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/utils/CommandHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/commands/utils/CommandInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/listener/JoinListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-API/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/CMCAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/CMCAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/SQLGetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/sql/SQLGetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/first-message.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/first-message.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeMC-DiscordBot/rules-role-claim.js" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-DiscordBot/rules-role-claim.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pzhNdocUnJTsrZ9mJorSZZdHqY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.16.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.35" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodeMC-API.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tom Juri Midderhoff\IntelliJ\CodeMC\CodeMC-CoinSystem\src\main\java\de\tomjuri\codemc\coinsystem" />
+      <recent name="C:\Users\Tom Juri Midderhoff\IntelliJ\CodeMC\CodeMC-API\src\main\java\de\tomjuri\codemc\api\sql" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.tomjuri.codemc.coinsystem.listener" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.CodeMC-DiscordBot start">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeMC-LobbySystem build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/CodeMC-LobbySystem" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CodeMC-DiscordBot start" type="NodeJSConfigurationType" path-to-js-file="CodeMC-DiscordBot/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3dd2a39-cbd6-40d4-a16c-33e628b3ee61" name="Default Changelist" comment="" />
+      <created>1616191791179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616191791179</updated>
+      <workItem from="1616191794939" duration="6605000" />
+      <workItem from="1616230420763" duration="15000" />
+      <workItem from="1616281149018" duration="377000" />
+      <workItem from="1616281553665" duration="361000" />
+      <workItem from="1616281932926" duration="1255000" />
+      <workItem from="1616327988503" duration="6369000" />
+      <workItem from="1616346010216" duration="233000" />
+      <workItem from="1616346303411" duration="1968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

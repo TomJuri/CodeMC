@@ -1,0 +1,11 @@
+name: CodeMC-CoinSystem
+version: RELEASE
+main: de.tomjuri.codemc.coinsystem.CMCCoinSystem
+prefix: CodeMC-CoinSystem
+load: STARTUP
+loadbefore: [  ]
+depend: [ CodeMC-API ]
+softdepend: [  ]
+authors: [ TomJuri ]
+description: The CodeMC Coin System.
+website: https://codemc.eu/staff/tomjuri

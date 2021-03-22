@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CodeMC-CoinSystem" />
         <module name="CodeMC-API" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CodeMC-API" target="1.8" />
+      <module name="CodeMC-CoinSystem" target="1.8" />
+      <module name="CodeMC-LobbySystem" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

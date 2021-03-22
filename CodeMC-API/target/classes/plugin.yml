@@ -1,0 +1,11 @@
+name: CodeMC-API
+version: RELEASE
+main: de.tomjuri.codemc.api.CMCAPI
+prefix: CodeMC-API
+load: STARTUP
+loadbefore: [ ]
+depend: [ ]
+softdepend: [ ]
+authors: [ TomJuri ]
+description: The CodeMC API.
+website: https://codemc.eu/staff/tomjuri

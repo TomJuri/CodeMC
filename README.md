@@ -1,1 +1,1 @@
-# CodeMC
+#[CodeMC](https://codemc.eu)
