@@ -1,0 +1,11 @@
+name: CodeMC-LobbySystem
+version: ${project.version}
+main: de.tomjuri.codemc.lobbysystem.CMCLobbySystem
+prefix: CodeMC-LobbySystem
+load: STARTUP
+loadbefore: [  ]
+depend: [ CodeMC-API ]
+softdepend: [  ]
+authors: [ TomJuri ]
+description: The CodeMC Lobby System.
+website: https://codemc.eu/staff/tomjuri

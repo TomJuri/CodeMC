@@ -10,6 +10,7 @@
       <list>
         <option value="$PROJECT_DIR$/CodeMC-API/pom.xml" />
         <option value="$PROJECT_DIR$/CodeMC-CoinSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/CodeMC-LobbySystem/pom.xml" />
       </list>
     </option>
   </component>

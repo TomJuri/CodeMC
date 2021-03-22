@@ -10,17 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3dd2a39-cbd6-40d4-a16c-33e628b3ee61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeMC-WebSite/CodeMC-WebSite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeMC-WebSite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-LobbySystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-LobbySystem/src/main/java/de/tomjuri/codemc/lobbysystem/CMCLobbySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeMC-LobbySystem/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/CMCAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-API/src/main/java/de/tomjuri/codemc/api/CMCAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/CMCCoinSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/java/de/tomjuri/codemc/coinsystem/CMCCoinSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/src/main/resources/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/CMCCoinSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/CMCCoinSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/commands/utils/CommandHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/de/tomjuri/codemc/coinsystem/commands/utils/CommandHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeMC-CoinSystem/target/classes/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +94,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.reader.mode" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
@@ -116,19 +113,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.CodeMC-DiscordBot start">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CodeMC-LobbySystem build" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -175,7 +159,8 @@
       <workItem from="1616327988503" duration="6369000" />
       <workItem from="1616346010216" duration="233000" />
       <workItem from="1616346303411" duration="5790000" />
-      <workItem from="1616442284409" duration="1005000" />
+      <workItem from="1616442284409" duration="1802000" />
+      <workItem from="1616444314320" duration="61000" />
     </task>
     <servers />
   </component>

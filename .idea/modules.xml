@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CodeMC-API/CodeMC-API.iml" filepath="$PROJECT_DIR$/CodeMC-API/CodeMC-API.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeMC-CoinSystem/CodeMC-CoinSystem.iml" filepath="$PROJECT_DIR$/CodeMC-CoinSystem/CodeMC-CoinSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeMC-DiscordBot/CodeMC-DiscordBot.iml" filepath="$PROJECT_DIR$/CodeMC-DiscordBot/CodeMC-DiscordBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeMC-LobbySystem/CodeMC-LobbySystem.iml" filepath="$PROJECT_DIR$/CodeMC-LobbySystem/CodeMC-LobbySystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeMC-WebSite/CodeMC-WebSite.iml" filepath="$PROJECT_DIR$/CodeMC-WebSite/CodeMC-WebSite.iml" />
     </modules>
   </component>

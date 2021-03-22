@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CodeMC-CoinSystem" />
         <module name="CodeMC-API" />
+        <module name="CodeMC-LobbySystem" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
